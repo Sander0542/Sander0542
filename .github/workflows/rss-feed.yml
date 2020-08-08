@@ -18,4 +18,4 @@ jobs:
         with:
           feed_list: "https://sanderjochems.com/Feed/Educations"
           comment_tag_name: EDUCATIONS-LIST
-          template: "$title"
+          template: "$newline- $title"
