@@ -1,0 +1,21 @@
+name: RSS Feed
+on:
+  push:
+    branches:
+      - master
+
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        name: Update Educations
+        with:
+          feed_list: "https://sanderjochems.com/Feed/Educations"
+          comment_tag_name: EDUCATIONS-LIST
+          template: "$title"
