@@ -2,8 +2,7 @@
 
 ## Educations
 
-<!-- EDUCATIONS-LIST:START -->
-<!-- EDUCATIONS-LIST:END -->
+<!-- EDUCATIONS-LIST:START -->Information Technology | 2020 - 2023Computer Software and Media Applications | 2017 - 2020Voortgezet middelbaar onderwijs (VMBO) | 2013 - 2017Basisonderwijs | 2005 - 2013<!-- EDUCATIONS-LIST:END -->
 
 ## GitHub Stats
 
