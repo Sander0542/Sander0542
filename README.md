@@ -34,6 +34,10 @@ public class About : Me
 
 ## 🏁 Stats
 
+<details>
+<summary>Show</summary>
+
 ![Sander0542 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sander0542&count_private=true&include_all_commits=true&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sander0542&layout=compact)
+</details>
