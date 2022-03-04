@@ -1,14 +1,38 @@
-### Hi there, I'm Sander 👋🏼
+# Hi there, I'm Sander 👋🏼
 
-## Educations
+```cs
+namespace SanderJochems;
 
-<!-- EDUCATIONS-LIST:START -->
-- Information Technology | 2020 - 2023
-- Computer Software and Media Applications | 2017 - 2020
-- Voortgezet middelbaar onderwijs &lpar;VMBO&rpar; | 2013 - 2017
-- Basisonderwijs | 2005 - 2013<!-- EDUCATIONS-LIST:END -->
+public class About : Me
+{
+    public string Pronouns = "He/Him";
+    
+    public string Title = "Software Developer";
+    
+    public string Location = "Eindhoven, Netherlands";
+}
+```
 
-## GitHub Stats
+## 🤓 Programming Languages
+
+- C#
+- Java
+- PHP
+- JavaScript
+- Python
+
+## 🔧 Tools
+
+- Docker
+- Git
+- Firebase
+
+## 🏫 Educations
+
+- Information Technology - Avans (2020-2023)
+- Computer Software - Summa College (2017-2020)
+
+## 🏁 Stats
 
 ![Sander0542 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sander0542&count_private=true&include_all_commits=true&show_icons=true)
 
