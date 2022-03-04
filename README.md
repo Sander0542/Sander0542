@@ -10,8 +10,6 @@
 
 ## GitHub Stats
 
-![Sander0542 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sander0542&count_private=true&include_all_commits=true&show_icons=true#gh-light-mode-only)
-![Sander0542 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sander0542&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark#gh-dark-mode-only)
+![Sander0542 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sander0542&count_private=true&include_all_commits=true&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sander0542&layout=compact#gh-light-mode-only)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sander0542&layout=compact&theme=github_dark#gh-dark-mode-only)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sander0542&layout=compact)
