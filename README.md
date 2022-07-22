@@ -18,6 +18,7 @@ public class About : Me
 - C#
 - Java
 - PHP
+- C++
 - JavaScript
 - Python
 
