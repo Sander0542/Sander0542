@@ -27,11 +27,14 @@ public class About : Me
 - Docker
 - Git
 - Firebase
+- Microsoft Azure
 
 ## 🏫 Educations
 
 - Information Technology - Avans (2020-2023)
 - Computer Software - Summa College (2017-2020)
+
+Projects made during my educations are stored in [Sander0542-School](https://github.com/Sander0542-School)
 
 ## 🏁 Stats
 
