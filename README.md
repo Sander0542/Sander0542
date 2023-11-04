@@ -7,7 +7,7 @@ public class About : Me
 {
     public string Pronouns = "He/Him";
     
-    public string Title = "Software Developer";
+    public string Title = "Software Engineer";
     
     public string Location = "Eindhoven, Netherlands";
 }
@@ -21,6 +21,7 @@ public class About : Me
 - C++
 - JavaScript
 - Python
+- Go
 
 ## 🔧 Tools
 
