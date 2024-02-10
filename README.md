@@ -7,7 +7,7 @@ public class About : Me
 {
     public string Pronouns = "He/Him";
     
-    public string Title = "Software Engineer";
+    public string Title = "Cloud & Software Engineer";
     
     public string Location = "Eindhoven, Netherlands";
 }
@@ -29,6 +29,7 @@ public class About : Me
 - Git
 - Firebase
 - Microsoft Azure
+- AWS
 
 ## 🏫 Educations
 
