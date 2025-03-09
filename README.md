@@ -28,6 +28,7 @@ public class About : Me
 - Docker
 - Git
 - Firebase
+- Terraform
 - Microsoft Azure
 - AWS
 
