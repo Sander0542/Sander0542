@@ -9,7 +9,7 @@ public class About : Me
     
     public string Title = "Cloud & Software Engineer";
     
-    public string Location = "Eindhoven, Netherlands";
+    public string Location = "Utrecht, Netherlands";
 }
 ```
 
